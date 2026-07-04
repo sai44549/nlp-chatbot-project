@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-(Add screenshots here later)
+![Chatbot UI](screenshot.png)
 
 ---
 
